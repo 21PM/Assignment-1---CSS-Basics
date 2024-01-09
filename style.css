@@ -1,0 +1,108 @@
+.main{
+    margin: 10px;
+    
+}
+header{
+    padding:50px;
+    background-color: rgba(224, 115, 56, 0.607);
+    margin-bottom: 20px;
+}
+nav{
+    margin-top: 20px;
+    background-color: rgba(224, 115, 56, 0.607);
+    padding: 15px;
+    
+    
+}
+
+
+#container{
+        display: flex;
+        margin-top: 20px;
+        height: 300px;
+}
+#left{
+    float: left;
+    background-color: aqua;
+    padding: 20px;
+    width: 69%;
+    margin-right: 20px;
+    
+}
+#right{
+    float: right;
+    background-color: grey;
+    padding: 20px;
+    width: 25%;
+    
+}
+footer{
+    margin-top: 20px;
+    background-color: rgba(224, 115, 56, 0.607);
+    padding:50px;
+}
+
+#section1{
+    padding: 20px;
+    background-color: rgb(191, 213, 222);
+    margin-top: 10px;
+}
+#section2{
+    padding: 20px;
+    background-color: rgb(191, 213, 222);
+    margin-top: 10px;
+}
+#section3{
+    padding: 20px;
+    background-color: rgb(191, 213, 222);
+    margin-top: 10px;
+}
+#aside1{
+    padding: 20px;
+    background-color:rgb(204, 200, 200);
+    margin-top: 20px;
+}
+#aside2{
+    padding: 20px;
+    background-color:rgb(204, 200, 200);
+    margin-top: 10px;
+}
+#navsection{
+    display: flex;
+    float: right;
+    background-color: white;
+    justify-content: space-evenly;
+}
+/* #navsec{
+
+    display: flex;
+} */
+.i1{
+    float: right;
+    background-color: white;
+    margin-left: 20px;
+    padding: 2px;
+    margin-inline-start: 100px;
+}
+.i2{
+    float: right;
+    background-color: white;
+    margin-left: 20px;
+    padding: 2px;
+    margin-inline-start: 100px;
+    
+}
+.i3{
+    float: right;
+    background-color: white;
+    margin-left: 20px;
+    padding: 2px;
+    margin-inline-start: 100px;
+}
+.i4{
+    float: right;
+    background-color: white;
+    margin-left:20px;    
+    padding: 2px;
+    margin-inline-start: 100px;
+}
